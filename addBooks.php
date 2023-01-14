@@ -53,10 +53,10 @@ if( isset($_POST["back"]))
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Add Staff</title>
+    <title>Add Books</title>
 </head>
 <body>
-    <h1>Add Staff</h1>
+    <h1>Add Books</h1>
 
     <form action="" method= "post">
         <label for="bookId">ID Buku : </label>
